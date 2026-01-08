@@ -1,0 +1,8 @@
+transformers == 4.28.1
+tensorrt==10.14.1.48 --extra-index-url https://pypi.nvidia.com
+gdown==5.2.0
+mamba_ssm==2.2.6.post3
+triton==3.5.1
+scikit-learn==1.8.0
+tensorflow==2.20.0
+#torch==2.9.1 (Auto install when install transformers)
